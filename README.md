@@ -157,11 +157,3 @@ Utilisation libre à des fins pédagogiques et de recherche.
 
 ```
 
----
-
-✅ **Tu as juste à copier-coller tout ce bloc dans ton fichier `README.md` sur GitHub.**  
-Une fois validé (“Commit new file”), GitHub affichera ton projet **exactement comme une fiche technique d’ingénieur** :  
-clair, structuré, documenté et pro.  
-
-Souhaites-tu que je te fasse aussi un **exemple concret de `requirements.txt`** à mettre à côté du README (pour que ton dépôt soit prêt à exécuter) ?
-```
