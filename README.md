@@ -155,5 +155,3 @@ Utilisation libre à des fins pédagogiques et de recherche.
 > Ce dépôt présente une approche complète, rigoureuse et structurée pour la conception d’une **application de pricing d’options (modèle CRR)**.
 > L’étude comparative des frameworks a conduit au choix de **Streamlit**, offrant le meilleur compromis entre **simplicité, performance et rendu professionnel**.
 
-```
-
